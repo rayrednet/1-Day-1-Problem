@@ -24,12 +24,38 @@ Output: [0,1]
  
 ### C. Problem Constraints 🫡
 
-2 <= nums.length <= 104 \
--109 <= nums[i] <= 109 \ 
--109 <= target <= 109 \
-Only one valid answer exists.
+2 <= nums.length <= 104 </br>
+-109 <= nums[i] <= 109 </br>
+-109 <= target <= 109 </br>
+Only one valid answer exists. </br>
  
 
 Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
 
-### D. My Approach
+### D. My Approach 😁
+![1st approach](img/1.jpeg) <br/>
+![2nd-approach](img/2.jpeg) <br/>
+
+As you can see, I found two approaches to this problem. However, the best solution with the least time complexity is the second one, which uses a hash map.
+
+#### Pseudocode
+
+```c
+function twoSum(nums, target):
+    hash_map = {}
+    
+    for i in range(len(nums)):
+        complement = target - nums[i]
+        
+        if complement in hash_map:
+            return [hash_map[complement], i]
+        
+        hash_map[nums[i]] = i
+
+```
+
+
+
+
+
+
