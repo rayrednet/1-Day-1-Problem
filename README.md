@@ -12,6 +12,8 @@ Welcome to my Daily Programming Challenges repository! Here, you'll find my answ
 ## How to Navigate
 - Solutions are organized by platform and then by problem.
 - Each solution includes the problem statement, my approach, and the code.
+- For each problem, I provide solutions in both Python and C++.
+
 
 Happy coding!
 
