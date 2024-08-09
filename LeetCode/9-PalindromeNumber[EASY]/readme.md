@@ -1,4 +1,4 @@
-## Problem: Two Sum (LeetCode)
+## Problem: Palindrome Number (LeetCode)
 
 ### A. Problem Statement 💁‍♀️
 Given an integer x, return true if x is a palindrome, and false otherwise.
