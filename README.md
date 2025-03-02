@@ -1,20 +1,27 @@
-# 1-Day-1-Problem
+# **Competitive Programming Challenges**  
 
-Welcome to my Daily Programming Challenges repository! Here, you'll find my answers to problems from platforms like LeetCode, Codeforces, HackerRank, and more.
+Welcome to my **Competitive Programming Challenges** repository! 🚀  
 
-## Platforms Covered
-- [LeetCode](https://leetcode.com/)
-- [Codeforces](https://codeforces.com/)
-- [HackerRank](https://www.hackerrank.com/)
-- [AtCoder](https://atcoder.jp/)
-- [TopCoder](https://www.topcoder.com/)
+## **About This Repo**  
+This started as a **1-day-1-problem challenge**, but due to vacations and a busy schedule, the pace is now **1-2 problems per week**.  
 
-## How to Navigate
-- Solutions are organized by platform and then by problem.
-- Each solution includes the problem statement, my approach, and the code.
-- For each problem, I provide solutions in both Python and C++.
+For now, I'm focusing **only on LeetCode** to build a strong problem-solving foundation. **Once I reach a good milestone, I'll expand to other platforms.**  
 
+## **Future Plans**  
+Once I’m comfortable with my LeetCode progress, I'll explore other competitive programming platforms, such as:  
+- **Codeforces**  
+- **HackerRank**  
+- **AtCoder**  
+- **TopCoder**  
 
-Happy coding!
+## **How to Navigate**  
+- Problems are categorized by their **platform** (currently only LeetCode).  
+- Each folder contains a **README** explaining the problem statement, my approach, and the final solution.  
+- Solutions are mainly in **Python**, with C++ possibly added later.  
 
--- Ray ♡
+## **Why This Repo?**  
+This repository serves as my **personal practice log**, helping me track progress, refine my skills, and prep for coding interviews & competitions.  
+
+Happy coding! 💻✨  
+
+— **Ray ♡**  
